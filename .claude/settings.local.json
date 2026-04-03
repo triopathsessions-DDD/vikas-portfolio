@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/KANNA/Downloads/SOURCING/**)",
+      "Bash(python -c \":*)",
+      "mcp__Claude_Preview__preview_start"
+    ]
+  }
+}
